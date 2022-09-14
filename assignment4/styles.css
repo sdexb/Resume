@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(242, 243, 174);
+    margin-left:7%;
+    margin-right:7%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.blue {
+    color: rgb(0, 52, 89);
+}
+
+
+.big {
+    background-color:rgba(252, 158, 79, 0.6);
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-right:20px;   
+}
+
+header {
+    background-color:rgba(252, 158, 79, 0.6);
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-right:20px;   
+}
+
+img {
+    float:left;
+}
+
+footer {
+    background-color:rgba(252, 158, 79, 0.6);
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-right:20px;   
+}
+
+h1, h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+#stopflow {
+    clear: left;
+}
